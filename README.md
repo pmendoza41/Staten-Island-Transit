@@ -11,7 +11,7 @@ The main issue with the S57 bus is that it fails to follow its set schedule. Acc
 **Thursday, April 27, 2017**
 <table>
 <tr><th>To New Dorp </th><th>To Port Richmond </th></tr>
-<tr><td>
+<tr><td><table></table>
 
 |Scheduled Time| Observed Arrival Time|
 | :-----: | :-----: | 
@@ -45,7 +45,7 @@ The main issue with the S57 bus is that it fails to follow its set schedule. Acc
 **Saturday, April 20, 2017**
 <table>
 <tr><th>To New Dorp </th><th>To Port Richmond </th></tr>
-<tr><td>
+<tr><td><table></table>
 
 |Scheduled Time| Observed Arrival Time|
 | :-----: | :-----: | 
