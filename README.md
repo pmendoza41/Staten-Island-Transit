@@ -9,38 +9,13 @@ New York City is known for its vast transportation system. Many residents utiliz
 The main issue with the S57 bus is that it fails to follow its set schedule. According to the [weekday time schedule](http://web.mta.info/nyct/bus/schedule/staten/s057cur.pdf) of the S57, the bus is supposed to arrive every 10-20 minutes in the morning, and then every 30 minutes in the afternoon and evening. Nevertheless, after recording the times the S57 bus arrived at Bradley Av/Victory Blvd for a random day during the week and for a random day during the weekend (Thursday and Saturday), and comparing those times to the scheduled times, the bus failed to adhere to the schedule times for the weekday and weekend service. From the tables below, some S57 buses even failed to show up at all. 
 
 **Thursday, April 27, 2017**
-<table>
-<tr><th>To New Dorp </th><th>To Port Richmond </th></tr>
-<tr><td><table></table>
 
-|Scheduled Time| Observed Arrival Time|
-| :-----: | :-----: | 
-| 8:06  | 8:07  | 
-| 8:21  | ----| 
-| 8:40 | 8:52 |
-|8:59 | 9:06 | 
-| 9:29 | 9:30 | 
-| 9:59 | 10:01 | 
-|10:29 | 10:53 | 
-| 10:59 | 11:27 | 
-|11:29 | 11:49 | 
-| 11:59 | 12:08 | 
-</td><td>
-
-|Schedule Time | Observed Arrival Time | 
-| :-----: | :-----: | 
-| 8:07  | 8:11 | 
-| 8:25  | ----| 
-| 8:39 | 8:58 |
-| 8:54 | 9:00 | 
-| 9:13 | 9:15 | 
-| 9:51 | ---- | 
-| 10:11 | 10:14 | 
-| 10:41 | 10:38 | 
-| 11:12 | 11:11 | 
-| 11:43 | 11:45 | 
-
-</td></tr> </table>
+|To New Dorp|To Port Richmond|
+|:--:|:--:|
+|<table> <tr><th>Scheduled Time</th><th>Observed Arrival Time</th></tr><tr><td>8:06</td><td>8:07</td></tr><tr><td>8:21</td><td>----</td></tr><tr><td>8:40</td><td>8:52</td></tr><tr><td>8:59</td><td>9:06</td></tr><tr><td>9:29</td><td>9:30</td></tr><tr><td>9:59</td><td>10:01</td></tr><tr><td>10:29</td><td>10:53</td></tr><tr><td>10:59</td><td>11:27</td></tr><tr><td>11:29</td><td>11:49</td></tr><tr><td>11:59</td><td>12:08</td></tr> </table> | <table> <tr><th>Scheduled Time</th><th>Observed Arrival Time</th></tr><tr><td>8:07</td><td>8:11</td></tr><tr><td>8:25</td><td>----</td></tr><tr><td>8:39</td><td>8:58</td></tr><tr><td>8:54</td><td>9:00</td></tr><tr><td>9:13</td><td>9:15</td></tr><tr><td>9:51</td><td>----</td></tr><tr><td>10:11</td><td>10:14</td></tr><tr><td>10:41</td><td>10:38</td></tr><tr><td>11:12</td><td>11:11</td></tr><tr><td>11:43</td><td>11:45</td></tr> </table> |
+|Table 1|Table 2|
+|--|--|
+|<table> <tr><th>Table 1 Heading 1</th><th>Table 1 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>|
 
 **Saturday, April 20, 2017**
 <table>
