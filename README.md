@@ -9,12 +9,10 @@ New York City is known for its vast transportation system. Many residents utiliz
 The main issue with the S57 bus is that it fails to follow its set schedule. According to the [weekday time schedule](http://web.mta.info/nyct/bus/schedule/staten/s057cur.pdf) of the S57, the bus is supposed to arrive every 10-20 minutes in the morning, and then every 30 minutes in the afternoon and evening. Nevertheless, after recording the times the S57 bus arrived at Bradley Av/Victory Blvd for a random day during the week and for a random day during the weekend (Thursday and Saturday), and comparing those times to the scheduled times, the bus failed to adhere to the schedule times for the weekday and weekend service. From the tables below, some S57 buses even failed to show up at all. However, there were a few cases where the bus came a couple of minutes early. 
 
 **_Thursday, April 27, 2017_**
-
-<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Thursday%20times.png?raw=true"
+<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Thursday%20times.png?raw=true" /></div>
 
 **_Saturday, April 20, 2017_**
-
-<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Saturday.png?raw=true"
+<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Saturday.png?raw=true" /></div>
 
 <script src="https://embed.github.com/view/geojson/pmendoza41/Staten-Island-Transit/master/map%20(4).geojson"></script>
 Also, above is a map of the S57 bus route from Port Richmond to Oakwood Heights and vice versa. When zoomed in on certain parts of the bus route, there are adjacent bus stops that are in close proximity to each other. Additionally, there are certain loops that host multiple S57 bus stops. This most likely contributes to the increased longevity of the bus ride, thus increasing occurrences of late arrivals. 
