@@ -9,15 +9,18 @@ New York City is known for its vast transportation system. Many residents utiliz
 The main issue with the S57 bus is that it fails to follow its set schedule. According to the [weekday time schedule](http://web.mta.info/nyct/bus/schedule/staten/s057cur.pdf) of the S57, the bus is supposed to arrive every 10-20 minutes in the morning, and then every 30 minutes in the afternoon and evening. Nevertheless, after recording the times the S57 bus arrived at Bradley Av/Victory Blvd for a random day during the week and for a random day during the weekend (Thursday and Saturday), and comparing those times to the scheduled times, the bus failed to adhere to the schedule times for the weekday and weekend service. From the tables below, some S57 buses even failed to show up at all. However, there were a few cases where the bus came a couple of minutes early. 
 
 **_Thursday, April 27, 2017_**
+
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Thursday%20times.png?raw=true"
 
 **_Saturday, April 20, 2017_**
+
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Saturday.png?raw=true"
 
 <script src="https://embed.github.com/view/geojson/pmendoza41/Staten-Island-Transit/master/map%20(4).geojson"></script>
 Also, above is a map of the S57 bus route from Port Richmond to Oakwood Heights and vice versa. When zoomed in on certain parts of the bus route, there are adjacent bus stops that are in close proximity to each other. Additionally, there are certain loops that host multiple S57 bus stops. This most likely contributes to the increased longevity of the bus ride, thus increasing occurrences of late arrivals. 
 
 ### Inspiration: Jarrett Walker, Public Transit Consultant 
+
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/jarrett%20walker%20pic.jpg?raw=true" /></div>
 
 The main issue with the transit lines can be summarized quite well by transit designer Jarrett Walker, known for his work on improving transit lines in Barcelona, Spain, and Houston, Texas. In the article [“Explainer: The Transit Ridership Recipe,”](http://humantransit.org/2015/07/mega-explainer-the-ridership-recipe.html)he describes the main problem he encounters with transit lines: ridership versus coverage. Ridership is a measure for transit determined by demand, where, for example, a route will be created in an area that is highly frequented, like downtown Manhattan, to benefit the people. Coverage, a term coined by Jarrett Walker, spreads a route over a longer area to benefit people no matter where they live.  Walker has determined that when creating a route, an official tends to create a route that has more coverage to appease all his constituents. Of course, this leads to longer routes, which sacrifices reliability, and causes the route to be longer and buses less frequent. Frequency is a very important aspect of a bus route because it reduces wait time, and therefore, travel time. Moreover, it allows for easier connections, which helps create a more efficient transit network. Additionally, it creates a stable backbone for reliability, so that if a vehicle breaks down, for example, another is sure to come soon after.
