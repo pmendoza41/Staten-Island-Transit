@@ -37,7 +37,33 @@ We plan to incorporate these guidelines to improve the s57 bus route in Staten I
 
 Based on Jarrett Walker’s philosophy on creating efficient bus routes, and our own observations of the S57 bus route, we created a few changes that might decrease the time each bus takes to get to its destination, and increase the frequency with which buses show up at stops. The changes include eliminating some stops and changing the locations of others, along with changing the bus timetable to make the buses appear more frequently to reduce wait time.
 
-<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Residential%20Districts.png?raw=true" /></div> 
+<img align="center" src="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Residential%20Districts.png?raw=true" width="375" height="375" />
 
 In the picture above of the Staten Island Districts, the red areas represent industrial districts, while the orange and yellow districts represent living areas. Darker areas mean a slightly higher population according to the zoning. Staten Island is a relatively low population area, which is why there is not much contrast between the residential district colors. This is why we did not base changing the bus route on population density.
+
+**Seaview Hospital Rehabilitation Center and Home**
+
+<img align="center" src="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Seaview.png?raw=true" width="320" height="320" />
+
+This loop goes to the Seaview Hospital Rehabilitation Center and Home. Instead of spending time making a loop, there could be a shuttle bus that goes to the S57 bus stops and picks passengers who want to enter the Seaview loop. The inspiration from this came from our own college, CSI, which has a shuttle bus that makes a full circle of the college every twenty minutes.
+
+**New Dorp Loop**
+
+<img align="center" src="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/New%20Dorp.png?raw=true" width="350" height="350" />
+
+This loop goes around Richmond Road, New Dorp Lane, N Railroad Avenue, and Rose Avenue. Although completely eliminating the loop would play into Walker’s idea of linearity, there are buses around the loop that people could transfer to.Therefore, a compromise would be keeping the stop at Richmond Rd and 1st Street, and the one at New Dorp Lane and N Railroad Ave. 
+
+### References 
+
+"Annual Bus Ridership." Mta.info | Facts and Figures. N.p., n.d. Web. 26 Apr. 2017. <http://web.mta.info/nyct/facts/ridership/ridership_bus_annual.htm>.
+
+"NYC Population by Borough." NYC Open Data. N.p., n.d. Web. 26 Apr. 2017. <https://data.cityofnewyork.us/City-Government/NYC-Population-by-Borough/h2bk-zmw6>.
+
+"2010 NYC Population by Census Tracts." NYC Open Data. N.p., n.d. Web. 26 Apr. 2017. <https://data.cityofnewyork.us/City-Government/2010-NYC-Population-by-Census-Tracts/si4q-zuzm>.
+
+"Buses." Mta.info | Facts and Figures. N.p., n.d. Web. 26 Apr. 2017. <http://web.mta.info/nyct/facts/ffbus.htm>.
+
+MTA Bus Time. N.p., n.d. Web. 26 Apr. 2017. <https://bustime.mta.info/#s57>.
+
+Walker, Jarrett. "Explainer: The Transit Ridership Recipe — Human Transit." Human Transit. Bozz Media, 26 Aug. 2016. Web. 22 Apr. 2017. 
 
