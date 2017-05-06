@@ -18,9 +18,9 @@ The main issue with the S57 bus is that it fails to follow its set schedule. Acc
 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Saturday.png?raw=true" /></div>
 
-<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/S57%20bar%20graph.png?raw=true" /></div> 
-
 In terms of [ridership](http://web.mta.info/nyct/facts/ridership/ridership_bus_annual.htm), the number of riders of the S57 greatly declined by 5.6% from 2014 to 2015. This decline equates to approximately 30,000 riders. The unreliability of the bus possibly contributed to this decrease. 
+
+<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/S57%20bar%20graph.png?raw=true" /></div> 
 
 ### Inspiration: Jarrett Walker, Public Transit Consultant 
 
