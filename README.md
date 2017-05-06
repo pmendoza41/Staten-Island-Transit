@@ -68,15 +68,15 @@ We addressed the linearity of the route by cutting out the Seaview loop and decr
 
 ### References 
 
-"Annual Bus Ridership." Mta.info | Facts and Figures. N.p., n.d. Web. 26 Apr. 2017. <http://web.mta.info/nyct/facts/ridership/ridership_bus_annual.htm>.
+"Annual Bus Ridership." Mta.info | Facts and Figures. N.p., n.d. Web. 26 Apr. 2017.<http://web.mta.info/nyct/facts/ridership/ridership_bus_annual.htm>.
 
-"NYC Population by Borough." NYC Open Data. N.p., n.d. Web. 26 Apr. 2017. <https://data.cityofnewyork.us/City-Government/NYC-Population-by-Borough/h2bk-zmw6>.
+"NYC Population by Borough." NYC Open Data. N.p., n.d. Web. 26 Apr. 2017.<https://data.cityofnewyork.us/City-Government/NYC-Population-by-Borough/h2bk-zmw6>.
 
-"2010 NYC Population by Census Tracts." NYC Open Data. N.p., n.d. Web. 26 Apr. 2017. <https://data.cityofnewyork.us/City-Government/2010-NYC-Population-by-Census-Tracts/si4q-zuzm>.
+"2010 NYC Population by Census Tracts." NYC Open Data. N.p., n.d. Web. 26 Apr. 2017.<https://data.cityofnewyork.us/City-Government/2010-NYC-Population-by-Census-Tracts/si4q-zuzm>.
 
-"Buses." Mta.info | Facts and Figures. N.p., n.d. Web. 26 Apr. 2017. <http://web.mta.info/nyct/facts/ffbus.htm>.
+"Buses." Mta.info | Facts and Figures. N.p., n.d. Web. 26 Apr. 2017.<http://web.mta.info/nyct/facts/ffbus.htm>.
 
-MTA Bus Time. N.p., n.d. Web. 26 Apr. 2017. <https://bustime.mta.info/#s57>.
+MTA Bus Time. N.p., n.d. Web. 26 Apr. 2017.<https://bustime.mta.info/#s57>.
 
 Walker, Jarrett. "Explainer: The Transit Ridership Recipe — Human Transit." Human Transit. Bozz Media, 26 Aug. 2016. Web. 22 Apr. 2017. 
 
