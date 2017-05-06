@@ -32,18 +32,22 @@ Walker also argues that to create a route, specifically a bus route, there are f
 
 We plan to incorporate these guidelines to improve the s57 bus route in Staten Island, taking into account demand, distance between key locations on the route, and how many people actually use the route.
 
-### Proposed Changes to S57 Route 
-
-Based on Jarrett Walker’s philosophy on creating efficient bus routes, and our own observations of the S57 bus route, we created a few changes that might decrease the time each bus takes to get to its destination, and increase the frequency with which buses show up at stops. The changes include eliminating some stops and changing the locations of others, along with changing the bus timetable to make the buses appear more frequently to reduce wait time.
+### Taking Walker's Factors Into Consideration
 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Residential%20Districits%20map.jpg?raw=true" /></div>
 
 In the picture above of the Staten Island Districts, the red areas represent industrial districts, while the orange and yellow districts represent living areas. Darker areas mean a slightly higher population according to the zoning. Staten Island is a relatively low population borough, which is why there is not much contrast between the residential district colors. This is why we did not base changing the bus route on population density.
 
+<div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Choropleth.png?raw=true" /></div>
+
+To get a more accurate representation of the population, we also created a choropleth map that shows the population of the different census tracts in Staten Island. The darker blue areas corresponds to higher population within that census tract. Since the populations within the census tracts that the S57 bus runs through are fairly equal, this further shows why we did not base the changes to the bus route based on population density. 
+
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/voronoi.png?raw=true" /></div>
 
 Based on our vornoi map, most of the bus stops are close together and evenly spaced. Therefore, it was also not necessary to take out or move many stops.
 
+### Proposed Changes to S57 Route 
+Based on Jarrett Walker’s philosophy on creating efficient bus routes, and our own observations of the S57 bus route, we created a few changes that might decrease the time each bus takes to get to its destination, and increase the frequency with which buses show up at stops. These changes also include eliminating some stops 
 **Seaview Hospital Rehabilitation Center and Home**
 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Seaview.png?raw=true" /></div>
