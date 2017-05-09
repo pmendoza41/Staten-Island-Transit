@@ -1,7 +1,7 @@
 # Staten Island Transit: Improving the S57 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/S57.jpg?raw=true" /></div>
 
-New York City is known for its vast transportation system, therefore, many of its residents utilize public transportation for ther everyday travel. However, there are times when every New Yorker faces the inconvenience of late transportation, whether it be late buses or trains. As a result, our group intends to focus on improving a bus route in Staten Island, the S57 bus line, that frequently incoveniences many Staten Island residents, either by not arriving on-time or by not arriving at all for consecutive scheduled times. 
+New York City is known for its vast transportation system, therefore, many of its residents utilize public transportation for their everyday travel. However, there are times when every New Yorker faces the inconvenience of late transportation, whether it be late buses or trains. As a result, our group intends to focus on improving a bus route in Staten Island, the S57 bus line, that frequently incoveniences many Staten Island residents, either by not arriving on-time or by not arriving at all for consecutive scheduled times. 
 
 ### The S57 bus route 
 <script src="https://embed.github.com/view/geojson/pmendoza41/Staten-Island-Transit/master/map%20(4).geojson"></script>
@@ -44,10 +44,11 @@ To get a more accurate representation of the population, we also created a choro
 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/voronoi.png?raw=true" /></div>
 
-Based on our vornoi map, most of the bus stops are close together and evenly spaced. Therefore, it was also not necessary to take out or move many stops.
+Based on our [vornoi map](https://github.com/pmendoza41/Staten-Island-Transit/blob/master/SITvor.py), it was also unnecessary to eliminate or move many stops. The voronoi graph draws lines between two points, essentially  bisecting them. The lines extend out infinitely, creating polygons, in which each correspond to specific point. From this, it demonstrates that the bus stops are distributed evenly among the areas where the bus line runs. Therefore, it was not necessary to take out or move many stops. 
 
 ### Proposed Changes to S57 Route 
-Based on Jarrett Walker’s philosophy on creating efficient bus routes, and our own observations of the S57 bus route, we created a few changes that might decrease the time each bus takes to get to its destination, and increase the frequency with which buses show up at stops. These changes also include eliminating some stops 
+Based on Jarrett Walker’s philosophy on creating efficient bus routes, and our own observations of the S57 bus route, we created a few changes that might decrease the time each bus takes to get to its destination, and increase the frequency with which buses show up at stops. These changes also include eliminating some stops.
+
 **Seaview Hospital Rehabilitation Center and Home**
 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/Seaview.png?raw=true" /></div>
@@ -58,13 +59,15 @@ This loop goes to the Seaview Hospital Rehabilitation Center and Home. Instead o
 
 <div style="text-align:center"><img src ="https://github.com/pmendoza41/Staten-Island-Transit/blob/master/New%20Dorp.png?raw=true" /></div>
 
-This loop goes around Richmond Road, New Dorp Lane, N Railroad Avenue, and Rose Avenue. Although completely eliminating the loop would play into Walker’s idea of linearity, there are buses around the loop that people could transfer to.Therefore, a compromise would be keeping the stop at Richmond Rd and 1st Street, and the one at New Dorp Lane and N Railroad Ave. 
+This loop goes around Richmond Road, New Dorp Lane, N Railroad Avenue, and Rose Avenue. Although completely eliminating the loop would play into Walker’s idea of linearity, there are buses around the loop that people could transfer to. Therefore, a compromise would be keeping the stop at Richmond Rd and 1st Street, and the one at New Dorp Lane and N Railroad Ave. 
 
 **Changing the Bus Frequency**
+
 We determined that the main way to ensure that buses arrive on time to their stops is to increase the frequency of buses traversing the route. Increasing the frequency of buses arriving will help improve reliability and cause an increase in ridership, which could raise revenue for the MTA.
 
 **Final Statement**
-We addressed the linearity of the route by cutting out the Seaview loop and decreasing the amount of stops on the New Dorp loop, and proposed increasing the frequency of buses on the route to have it follow the schedule.
+
+We addressed the linearity of the route by cutting out the Seaview loop, decreasing the amount of stops on the New Dorp loop, and proposing to increase the frequency of buses on the route, in hopes that the S57 buses will be able to arrive on time more, improving the overall bus travel for the riders. 
 
 ### References 
 
